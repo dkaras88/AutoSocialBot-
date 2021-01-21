@@ -1,0 +1,52 @@
+{
+  "base_url": "https://www.instagram.com",
+  "username": "hokkermax", 
+  "myusername":"hokkermax",
+  "password": "macero23",
+  "hashTags": ["golf","golfclub","golfplaces","football", "motivation","droneview"], 
+  "comments":["Great...","Good","Nice..!","nice","👍👍⛳️"],
+  "lang":{
+  	"follow":"Follow",
+  	"following":"Following",
+  	"unfollow":"Unfollow",
+  	"like":"Like",
+  	"unlike":"Unlike"
+  },
+  "settings": {
+    "run_every_x_hours": 3,
+    "view_story_minutes":1,
+    "like_ratio": 0.75,
+    "unfollow_after_days":0,
+    "headless": true,
+    "followdaily":30, 
+    "unfollowdaily":30,
+    "likes":10, 
+    "comments":15
+  },
+  "selectors": { 
+    "home_to_login_button": ".izU2O a",
+    "username_field": "input[type=\"text\"]",
+    "password_field": "input[type=\"password\"]",
+    "login_button": "button[type=\"submit\"]",
+    "one_tap_button":"div.cmbtv button",	
+    "post_heart_grey": "span.glyphsSpriteHeart__outline__24__grey_9",
+    "post_username": "div.e1e1d >span > a",
+    "post_follow_link": ".bY2yH > button",
+    "post_like_button": "span.fr66n > button",
+    "post_follow_button": "span.oW_lN._1OSdk > button",
+    "post_close_button": "svg[aria-label='Close']",
+    "profile_post_link":"div.v1Nh3",
+    "profile_post_like":"span:nth-child(1) button[type='button']",
+    "profile_post_like_text":"span:nth-child(1) button[type='button'] svg",
+    "user_unfollow_button": "span.glyphsSpriteFriend_Follow",
+    "user_unfollow_confirm_button": "div.mt3GC > button.aOOlW.-Cab_",
+    "not_now_button": "[role='dialog'] button:nth-child(2)",
+    "hash_tags_base_class": ".EZdmt",
+    "explore_page_base_class": ".v1pSD",
+    "story_selector":".w9Vr-._6ZEdQ",
+    "story_next_button":"button.ow3u_",
+    "feed_story_item":"ul li.Ckrof",
+    "comment_link":"form textarea",
+    "follow_list_holder":".isgrP"
+  }
+}

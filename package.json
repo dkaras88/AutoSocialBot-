@@ -1,0 +1,28 @@
+{
+  "name": "instagram-bot",
+  "version": "2.0.0",
+  "description": "A bot that helps automate regular Instagram activity i.e liking posts, following users and unfollow users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^6.5.1",
+    "puppeteer": "^1.9.0",
+    "shuffle-array": "^1.0.1"
+  },
+  "keywords": [
+    "Instagram",
+    "Bot",
+    "Puppeteer",
+    "NodeJs",
+    "Firebase"
+  ],
+  "author": "kingbots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://www.fiverr.com/kingbots/develop-puppeteer-bot-or-provide-support"
+  },
+  "homepage": "https://www.fiverr.com/kingbots/develop-puppeteer-bot-or-provide-support"
+}

@@ -1,0 +1,17 @@
+You Only Need to Edit Files is?
+
+
+>>>db_config.json  json file
+
+
+Paste Response from Authentication File downloaded from Firebase.
+
+
+
+>>puppeteer.json
+
+
+To Edit in this file 
+
+Puppeteer config File Guide is given 
+
