@@ -1,8 +1,4 @@
-/*
- * @author Kingbots.
- * ig-bot
- * 30/Oct/2020 9:32 AM
- */
+
 const firebase = require('firebase-admin');
 const config = require("./config/db_config");
 
