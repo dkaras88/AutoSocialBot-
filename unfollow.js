@@ -1,8 +1,4 @@
-/*
- * @author Kingbots
- * ig-bot
- * 31-Oct-2020 6:22 PM
- */
+
 
 const Bot = require('./Bot');// this directly imports the index.js file
 const config = require('./Bot/config/puppeteer');
