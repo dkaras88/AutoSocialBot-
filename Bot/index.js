@@ -1,8 +1,4 @@
-/*
- * @author Kingbots
- * ig-bot
- * 31/Oct/2020 9:31 AM
- */
+
 
 class InstagramBot {
 
